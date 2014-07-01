@@ -1,3 +1,5 @@
+*.sw?
+.rvmrc
 cache
 coverage
 .bundle
